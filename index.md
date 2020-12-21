@@ -4,13 +4,13 @@ HELLO:
 
 ## 芝芝冬至快乐鸭~❤：
 
-<img src="image-20201221201031874.png" alt="image-20201221201031874" style="zoom: 50%;" />
+<img src=".\images\image-20201221201031874.png" alt="image-20201221201031874" style="zoom: 50%;" />
 
 *谢谢~*
 
 牛奶香芋汤圆：
 
- <img src="image-20201221201726234.png" alt="image-20201221201726234" style="zoom:33%;" />
+ <img src="images\image-20201221201726234.png" alt="image-20201221201726234" style="zoom:33%;" />
 
 
 
@@ -29,7 +29,7 @@ HELLO:
 
 
 ```python
-print('\n'.join([''.join([('lovezhi.'[(x - y) % 8] if ((x * 0.05) ** 2 + (y * 0.1) ** 2 - 1) ** 3 - (x * 0.05) ** 2 * (y * 0.1) ** 3 <= 0 else ' ') for x in range(-30, 30)]) for y in range(15, -15, -1)]))
+print('\n'.join([''.join([('芝 芝.'[(x - y) % 8] if ((x * 0.05) ** 2 + (y * 0.1) ** 2 - 1) ** 3 - (x * 0.05) ** 2 * (y * 0.1) ** 3 <= 0 else ' ') for x in range(-30, 30)]) for y in range(15, -15, -1)]))
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
