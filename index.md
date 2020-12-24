@@ -5,31 +5,6 @@
 ### [圣诞贺卡](/Merry_Christmas/index.html)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-+++
-
 HELLO:
 
 ## 芝芝冬至快乐鸭~❤：
@@ -46,16 +21,7 @@ HELLO:
 
 ## 文章：
 
-###[Docker](Docker.md)
-
-
-
-----
-
----
-
----
-
+### [Docker](/Mynote/Docker.md)
 
 
 ```python
