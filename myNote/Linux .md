@@ -1,5 +1,9 @@
 # 菜鸟带你了解Linux
 
+> 为了避免误导别人，如果内容有问题请麻烦指正：2528044459@qq.com
+
+
+
 ubuntu 官方：https://ubuntu.com/tutorials
 
 Linux 官方： https://www.linux.org/

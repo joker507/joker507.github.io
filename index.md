@@ -1,5 +1,9 @@
 ## Xian wu 的个人博客
 
+> 为了避免误导别人，如果内容有问题请麻烦指正：2528044459@qq.com
+
+
+
 
 
 
@@ -10,7 +14,7 @@
 
 
 
-
+## 工具：
 
 ### [在线编译器](http://www.dooccn.com/c/)
 
@@ -19,4 +23,12 @@ print('\n'.join([''.join([('lovezhi.'[(x - y) % 8] if ((x * 0.05) ** 2 + (y * 0.
 ```
 
 
+
+
+
++++
+
+
+
+[圣诞贺卡](/Merry_Christmas/index.html)
 
