@@ -12,7 +12,7 @@
 ###  [Linux](myNote/Linux.html)
 ### [Docker](myNote/Docker.md)
 
-
+### [windows 快捷键](myNote/windows快捷键.html)
 
 ## 工具：
 
