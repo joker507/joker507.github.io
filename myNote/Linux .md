@@ -206,7 +206,9 @@ Linux **操作系统**分为：内核版、发行版
 
 
 
-<img src="img\image-20210126160108246.png" alt="image-20210126160108246" style="zoom: 200%;" />
+![image-20210131162315799](\myNote\img\image-20210131162315799.png)
+
+
 
 > GNU计划，有译为“革奴计划”，是由[理查德·斯托曼](https://baike.baidu.com/item/理查德·斯托曼/486922)在1983年9月27日公开发起的[自由软件](https://baike.baidu.com/item/自由软件/405190)集体协作计划。它的目标是创建一套完全[自由](https://baike.baidu.com/item/自由/3954287)的操作系统[GNU](https://baike.baidu.com/item/GNU)。
 
