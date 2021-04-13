@@ -34,3 +34,4 @@ print('\n'.join([''.join([('lovezhi.'[(x - y) % 8] if ((x * 0.05) ** 2 + (y * 0.
 
 [圣诞贺卡](/Merry_Christmas/index.html)
 
+[image](./img/index.html)
